@@ -1,2 +1,6 @@
 # elasticsearch-kibana
-Basic elasticsearch  kibana setup
+Clone the repo
+
+cd elasticsearch-kibana
+
+docker-compose up
